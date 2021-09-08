@@ -5,4 +5,4 @@ NPR obtained HUD real estate owned properties sales records from January 2017 to
 
 NPR also cross referenced the records with American Community Survey data to analyze neighborhood characteristics of these homes. This involves identifying the census tracts of homes - [here's the notebook for the process](https://github.com/jhuo7/HUD_homes_in_SFHAs/blob/main/20210811_HUD_RH_geocode_census_tracts.ipynb) and [here's NPR's analysis on neigorhood characteristics of HUD homes in SFHAs](https://github.com/jhuo7/HUD_homes_in_SFHAs/blob/main/20210729_HUD_RH_SFHA_analysis_for_sharing.ipynb)
 
-[Here is the Google Drive link to other files used the analysis that are too large for GitHub LINK NEEDS UPDATING ONCE MADE PUBLIC ] (https://drive.google.com/drive/folders/1eLZ9B1bWHcrlnqFjkG7KTfpywgBuA6R5?usp=sharing) <br>
+[Here is the Google Drive link to other files used the analysis that are too large for GitHub LINK NEEDS UPDATING ONCE MADE PUBLIC](https://drive.google.com/drive/folders/1eLZ9B1bWHcrlnqFjkG7KTfpywgBuA6R5?usp=sharing) <br>
